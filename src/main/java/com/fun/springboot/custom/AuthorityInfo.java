@@ -5,7 +5,7 @@ import org.springframework.security.core.GrantedAuthority;
 /**
  * 权限信息 
  * 
- * @author ChengLi
+ * @author fun
  * 
  */
 public class AuthorityInfo implements GrantedAuthority

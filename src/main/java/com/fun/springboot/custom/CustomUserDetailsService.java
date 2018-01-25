@@ -11,7 +11,7 @@ import org.springframework.security.core.userdetails.UsernameNotFoundException;
 /**
  * 用于加载用户信息 实现UserDetailsService接口，或者实现AuthenticationUserDetailsService接口
  * 
- * @author ChengLi
+ * @author fun
  * 
  */
 public class CustomUserDetailsService

@@ -9,7 +9,7 @@ import org.springframework.security.core.userdetails.UserDetails;
  * 用户信息
  * 
  * @、这里我写了几个较为常用的字段，id，name，username，password，可以根据实际的情况自己增加
- * @author ChengLi
+ * @author fun
  * 
  */
 public class UserInfo implements UserDetails

@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 /**
  * CAS的配置参数 
  * 
- * @author ChengLi
+ * @author fun
  */
 @Component
 public class CasProperties {
